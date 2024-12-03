@@ -1,4 +1,4 @@
-# Prepaid Cards Project - API in C# and SQL
+# Prepaid Cards Project 
 
 This project is based on an API written in C# with SQL used for data management. The project is a system for managing prepaid cards, including store management, customers, card sales, and top-up points.
 
